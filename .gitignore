@@ -1,0 +1,13 @@
+Fruits_Classification_CNN_Task/data/
+Fruits_Classification_CNN_Task/fruit_dataset/
+Fruits_Classification_CNN_Task/Rem
+Fruits_Classification_CNN_Task/best_model.keras
+Fruits_Classification_CNN_Task/model_240x240.h5
+Number_Plate_Retreival/Vehicle Registration Plates.v2-licenseplatedatasetv1.yolov8/
+Number_Plate_Retreival/test_vid.mp4
+Number_Plate_Retreival/car_license_plate.v1i.yolov8/
+Shirts_detection/augmented_images/
+Shirts_detection/augmented_labels/
+Shirts_detection/data/
+Shirts_detection/data_EDA/
+Shirts_detection/data_files/

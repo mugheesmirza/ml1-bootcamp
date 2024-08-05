@@ -1,0 +1,10 @@
+path: C:/Users/mughe/ml1/!ML 1 Bootcamp/Shirts_detection/data
+train: images/train
+val: images/train
+
+# Classes
+names:
+  0: black_shirt
+  1: blue_shirt
+  2: gray_shirt
+  3: white_shirt
