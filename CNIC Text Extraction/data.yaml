@@ -1,0 +1,5 @@
+names:
+  0: text
+path: C:/Users/mughe/ml1/!ML 1 Bootcamp/Task_1/data
+train: images/train
+val: images/val
