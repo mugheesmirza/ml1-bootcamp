@@ -11,3 +11,6 @@ Shirts_detection/augmented_labels/
 Shirts_detection/data/
 Shirts_detection/data_EDA/
 Shirts_detection/data_files/
+Image_Classification/output/
+Image_Classification/all/
+Image_Classification/*.npy
