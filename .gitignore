@@ -14,3 +14,5 @@ Shirts_detection/data_files/
 Image_Classification/output/
 Image_Classification/all/
 Image_Classification/*.npy
+Transfer_Learning_MNIST_EMNIST/*.keras
+Transfer_Learning_MNIST_EMNIST/*.h5
